@@ -1,1 +1,1 @@
-# liquid-state-machine
+I tried to create a liquid state machine from scratch.  My goal was to test it on a self-generated Mackey-Glass dataset.  My original goal was to get below 0.01 test loss, but I ended up with about 1/5 of that on an early iteration.
